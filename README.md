@@ -67,8 +67,6 @@ python main.py
 
 ## 🔧 Admin Panel
 
-Untuk owner (Device ID: `e0c2cc66256510fe2215a3671982910a`):
-
 | Menu | Fungsi |
 |------|--------|
 | **Grant Premium** | Aktivasi device ID + jumlah hari (0=unlimited) |
@@ -88,27 +86,9 @@ Ketika mode maintenance **AKTIF**:
 
 ---
 
-## 🔧 File Structure
-
-```
-📁 spammer-otp/
-├── main.py              # Entry point + menu ZSH-style
-├── main_engine.py       # OTP spam engine (106+ targets)
-├── handlers.py          # Custom OTP handler functions
-├── targets.py           # 106 target API configurations
-├── license.py           # License system + Supabase
-├── utils.py             # Utility functions
-├── animations.py        # Terminal animations
-├── useragents.py        # 34+ User-Agent list
-├── setup_supabase.sql   # Database setup script
-└── README.md            # This file
-```
-
 ---
 
 ## 📄 License
 
 **Premium License** - Hak akses penuh dengan sistem lisensi via Supabase.  
-Harga: Rp. 5.000 (sekali bayar, akses selamanya)
-
 Kontak: Telegram @bapakmu123d
